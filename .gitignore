@@ -6,7 +6,6 @@ target/
 
 node_modules/
 application-prod.yml
-youxi.java
 ### STS ###
 .apt_generated
 .classpath
