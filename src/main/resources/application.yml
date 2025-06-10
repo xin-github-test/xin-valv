@@ -1,0 +1,11 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /api
+    #cookie30天后过期
+    session:
+      cookie:
+        max-age: 2592000
+spring:
+  application:
+    name: xin-picture-backend
